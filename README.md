@@ -1,7 +1,7 @@
 # Terrorism Salience and Proximity: Evidence from the 2015 Paris Attacks
 
-[Master's] thesis in [Analytics and Data Science for Economics and Management], [University of Brescia & University of Strasbourg], [2025/2026]
-**Author:** [Chiara Pizzetti] · **Supervisor:** [Prof. Nicola Pontarollo] · **Co-supervisor:** [Prof. Giovanni Maria Abbiati]
+Master's thesis in Analytics and Data Science for Economics and Management, University of Brescia & University of Strasbourg, 2025/2026
+**Author:** Chiara Pizzetti · **Supervisor:** Prof. Nicola Pontarollo · **Co-supervisor:** Prof. Giovanni Maria Abbiati
 
 ## Overview
 
